@@ -1,0 +1,32 @@
+<component name="ProjectDictionaryState">
+  <dictionary name="Mohan">
+    <words>
+      <w>bookinglist</w>
+      <w>confirmbooking</w>
+      <w>confirmpayment</w>
+      <w>confirmpaymentaction</w>
+      <w>deletebill</w>
+      <w>deletebooking</w>
+      <w>dismissable</w>
+      <w>driverid</w>
+      <w>driverprofile</w>
+      <w>drjoin</w>
+      <w>glyphicon</w>
+      <w>indexbill</w>
+      <w>licensevalid</w>
+      <w>mybill</w>
+      <w>mynavbar</w>
+      <w>navbar</w>
+      <w>newdriver</w>
+      <w>newvehicle</w>
+      <w>releasebooking</w>
+      <w>showbill</w>
+      <w>signup</w>
+      <w>storebill</w>
+      <w>swal</w>
+      <w>tcost</w>
+      <w>updatebill</w>
+      <w>wickedpicker</w>
+    </words>
+  </dictionary>
+</component>
